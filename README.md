@@ -13,7 +13,7 @@
 Welcome to the Restaurant Employee Management System! This Java-based project provides a robust solution for managing employee details in a restaurant setting. It allows you to efficiently organize and maintain essential information about the staff, including their names, job titles, responsibilities, schedules, contact information, and more. By using this system, restaurant owners and managers can streamline employee management processes, schedule shifts, and ensure the smooth operation of their establishment.
 
 ## Features
-:pencil2: - Represents editing or customization.
+:pencil2: 
 - **Employee Management**: Easily add, update, and remove employee details, including their personal information and employment history.
 - **Job Titles and Responsibilities**: Assign specific job titles and responsibilities to each employee, facilitating effective task delegation and role identification.
 - **Scheduling**: Create and manage employee schedules based on availability and predefined shift templates. Easily assign shifts to employees and make schedule adjustments as needed.
@@ -49,7 +49,7 @@ Welcome to the Restaurant Employee Management System! This Java-based project pr
    ```
 
 ## Usage
-:floppy_disk: - Represents data persistence or storage.
+:floppy_disk: 
 1. Launch the application.
 2. Use the menu options to navigate through various functionalities, such as managing employees, scheduling shifts, and generating reports.
 3. Follow the prompts and input the required information to perform specific tasks.
@@ -58,7 +58,8 @@ Welcome to the Restaurant Employee Management System! This Java-based project pr
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-:hammer_and_wrench: - Represents customization or configuration.
+
+:hammer_and_wrench: 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make the necessary modifications.
@@ -70,7 +71,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-:bulb: - Represents ideas or innovative features.
+:bulb: 
 For any inquiries or suggestions, feel free to reach out to me:
 
 - Email: fahimshahoriar66@gmail.com
